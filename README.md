@@ -6,7 +6,3 @@ Deep Learning Course Project Work - A Compiled Dataset of 6899 Images From 8 Dis
 Within the scope of this project, it is aimed to learn the basic concepts of deep learning applications.
 
 This model was created as a deep learning course assignment during my undergraduate education. Since it is a student-level project, I cannot guarantee the quality of the project. Additionally, since I have to stick to the methods given in the assignment, the path or methods and codes I follow may not be efficient.
-
-
-# The Updated version is on kaggle.
-https://www.kaggle.com/code/aliberakurun/natural-image-classification-with-deep-learning/notebook
